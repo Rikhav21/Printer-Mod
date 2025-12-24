@@ -37,6 +37,10 @@ Time spent: 2 hours
 
 ## Day 6
 Today was another firmware day. I tried to make it so that I can controll the amount that the laser turns on based on the value that I send it,a nd I got that macro working. Then I learned how to use LaserGRBL, and sliced my first image of a square. after exporting it, I realized that it was exported with a .nc file extensions, so I could import it into klipper, but I was not able to get it to run, I tried a few different things, but at the end it turns out that just changing the file extension to .gcode actually works perfectly. Although I was able to get the code to at least start compiling, it was still giving errors about unrecognized commands so I will look into that tomorrow.
+
+<img width="489" height="340" alt="image" src="https://github.com/user-attachments/assets/e7ebefd4-ec5e-4e9c-b518-6d1618c2aaa8" />
+
+
 Time spent : 3 hours
 
 ## Day 7
