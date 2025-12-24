@@ -1,0 +1,5 @@
+# Laser cutting printer
+I basically designed and build a laser cutting attatchement for a toolhead of a 3d printer. You could probably get this to work on any printer that runs klipper, but I modded my custom printer. Basically you are just going to attatch the laser to the toolhead using a bracket, and then connect it to its own PSU, and also connect it to your printer control board.
+After that you can test it by uploading my new printer config. Really all you need to know is what GPIO you are using to connect it to your printer, (I used 20) and then just adust my macros to turn it on or off. I would recommend starting at a really low value, and make sure 
+that you always have your glasses on.
+After that you are going to have to download change.py and input your gcode file. I used LaserGRBL and it exported as a .nc. As long as you name it input.nc you should get a folder named output.gcode that youcan upload to klipper. After that you should ust be able to run output.gcode and it will engrave your image!
