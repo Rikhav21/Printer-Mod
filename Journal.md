@@ -1,7 +1,10 @@
 # Laser cutter 
 #### By @Rikhav
 ## Day 1
-So today I mainly ust worked on research took an inventory on parts that I had, and sort of thought about how to build this thing. I found something really cool where someone [attatches a laser cutter to their A1 mini](https://www.reddit.com/r/BambuLab/comments/1oi44fl/i_turned_my_bambu_a1_mini_into_a_mini_laser_cutter/) so I was thinking that I can domehitn gsimilar to that. Today I was mainly looking at wiring, how I would actually do it, adustability etc.
+So today I mainly ust worked on research took an inventory on parts that I had, and sort of thought about how to build this thing. I found something really cool where someone
+[attatches a laser cutter to their A1 mini](https://www.reddit.com/r/BambuLab/comments/1oi44fl/i_turned_my_bambu_a1_mini_into_a_mini_laser_cutter/) 
+so I was thinking that I can domehitn gsimilar to that. Today I was mainly looking at wiring, how I would actually do it, adustability etc.
+
 <img width="352" height="532" alt="image" src="https://github.com/user-attachments/assets/de8ab592-ae5d-4f43-8697-117f6358399a" />
 
 Total time spent : 3 and a half hours.
@@ -13,3 +16,7 @@ Total time spend : 4 hours.
 ## Day 3
 Today I meainly spent time on actually getting the elctronics done, so I soldered the wires, tested connections before powering it on, because it's pretty high voltage, stuff, and triple checking that everything was wired correctly before giving it power. Here I didn't have a barrel ack for DC input to the laser controller, so instead I ust soldered on the wires to the back of the board with the exposed socket terminals. I did test it where I turned it on,a nd the laser was at 0.1% power, and I was able to see a faint blue glow so it does work. tomorrow I am going to try to mount and actuallycut something.
 time spent: 4 hours
+
+## Day 4
+Today I ust wanted to finish the assembly portion and try powering everything on. it turned out that actually connecting the laser controll board to the SKR pico was a little bit harder than I thought, because the board was out of reach, and the wires to the laser restricted its movement so I had to make them longer. I had to redeigsn the mount because the first one did  not fit that well,a nd I had to print at about 50% infill because it was supporting almost the entire weight of the laser. Although the toolhead is now heavier, it doe snot seem to actually change the movement of the laser that much.
+time spend: 3 and a half hours.
