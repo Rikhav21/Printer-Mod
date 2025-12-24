@@ -42,8 +42,7 @@ Time spent : 3 hours
 ## Day 7
 Today I tried to look into what was actually causing the errors, and realized that the g-code that LaserGRBL exported was actually not able to run on klipper because it did not recognize S80 or something like that sa a command, so I tried to set up macros so that klipper could tell that I was trying to turn on the laser. That didn't work either because S90 had to be written as S S-90; And I had no idea how to do that. I trid finding and replacing all of those, however I got some complaints that I think I can fix by moving the macros to a new line, but I am going to work on that tommorrow.
 
-<img width="491" height="397" alt="image" src="https://github.com/user-attachments/assets/174b7899-f867-4e47-985b-f84924046b80" />
-<img width="481" height="443" alt="image" src="https://github.com/user-attachments/assets/e18f8cdd-2159-4334-84ef-9c757bac3f11" />
+
 
 
 Time spent:  4 hours
@@ -59,8 +58,8 @@ Time spent 4 and a half hours.
 ## Day 9
 Today was mainly ust a trouble shooting day, I updated the code some more, added macros, and did some more stuff with the firmware, and edited the laser positioning so that now I was actually able to engrave into some wood. I wasn't able to cut it, because my woord is really dense, but I might gut some plywood or something else to lasercut later.
 
-<img width="565" height="649" alt="image" src="https://github.com/user-attachments/assets/d9b797c7-2e6a-49b2-9660-8c22dc65fa6d" />
-<img width="481" height="443" alt="image" src="https://github.com/user-attachments/assets/a165ae02-c340-4210-b588-c16a0128ba7d" />
+<img width="491" height="397" alt="image" src="https://github.com/user-attachments/assets/174b7899-f867-4e47-985b-f84924046b80" />
+<img width="481" height="443" alt="image" src="https://github.com/user-attachments/assets/e18f8cdd-2159-4334-84ef-9c757bac3f11" />
 
 
 Time spent: 4 hours
