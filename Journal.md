@@ -10,3 +10,6 @@ So today I went more down the laser cutting rabit hole and actually saw differen
 <img width="703" height="736" alt="image" src="https://github.com/user-attachments/assets/a2724606-300f-43ea-8476-5c2e2c17c009" />
 
 Total time spend : 4 hours.
+## Day 3
+Today I meainly spent time on actually getting the elctronics done, so I soldered the wires, tested connections before powering it on, because it's pretty high voltage, stuff, and triple checking that everything was wired correctly before giving it power. Here I didn't have a barrel ack for DC input to the laser controller, so instead I ust soldered on the wires to the back of the board with the exposed socket terminals. I did test it where I turned it on,a nd the laser was at 0.1% power, and I was able to see a faint blue glow so it does work. tomorrow I am going to try to mount and actuallycut something.
+time spent: 4 hours
