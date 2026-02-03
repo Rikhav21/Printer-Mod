@@ -12,6 +12,7 @@ For the electronics, all you have to do is connect the laser PSU to it's control
 ## The firmware
 After that you can test it by uploading my new printer config. Really all you need to know is what GPIO you are using to connect it to your printer, (I used 20) and then just adust my macros to turn it on or off. I would recommend starting at a really low value, and make sure that you always have your glasses on.
 After that you are going to have to download change.py and input your gcode file. I used LaserGRBL and it exported as a .nc. As long as you name it input.nc you should get a folder named output.gcode that youcan upload to klipper. After that you should ust be able to run output.gcode and it will engrave your image!
+
 <img width="489" height="340" alt="530050401-e7ebefd4-ec5e-4e9c-b518-6d1618c2aaa8" src="https://github.com/user-attachments/assets/bfaa88c0-2faa-429e-8085-0104b7db7321" />
 <img width="491" height="397" alt="image" src="https://github.com/user-attachments/assets/174b7899-f867-4e47-985b-f84924046b80" />
 <img width="481" height="443" alt="image" src="https://github.com/user-attachments/assets/e18f8cdd-2159-4334-84ef-9c757bac3f11" />
