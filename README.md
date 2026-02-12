@@ -16,4 +16,9 @@ After that you are going to have to download change.py and input your gcode file
 <img width="489" height="340" alt="530050401-e7ebefd4-ec5e-4e9c-b518-6d1618c2aaa8" src="https://github.com/user-attachments/assets/bfaa88c0-2faa-429e-8085-0104b7db7321" />
 <img width="491" height="397" alt="image" src="https://github.com/user-attachments/assets/174b7899-f867-4e47-985b-f84924046b80" />
 <img width="481" height="443" alt="image" src="https://github.com/user-attachments/assets/e18f8cdd-2159-4334-84ef-9c757bac3f11" />
-
+## BOM
+| Item | Description                                           | Supplier Link                                                      | Unit Price (USD) | Qty |      Total |
+| ---: | ----------------------------------------------------- | ------------------------------------------------------------------ | ---------------: | --: | ---------: |
+|    1 | Laser Module (≈80W optical class, AliExpress listing) | [AliExpress](https://www.aliexpress.us/item/3256804434878907.html) |           $40.00 |   1 |     $40.00 |
+|    2 | Power Supply Unit (PSU)                               | [AliExpress](https://www.aliexpress.us/item/3256807006443600.html) |           $12.00 |   1 |     $12.00 |
+|      | **Total Cost**                                        |                                                                    |                  |     | **$52.00** |
